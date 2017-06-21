@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Learning app</string>
+    <string-array name="person_name">
+        <item>6th Grad</item>
+        <item>7th Grad</item>
+        <item>8th Grad</item>
+        <item>9th Grad</item>
+        <item>10th Grad</item>
+        <item>11th Grad</item>
+        <item>12th Grad</item>
+        <item>CAT</item>
+        <item>GRE</item>
+        <item>GMAT</item>
+    </string-array>
+    <string-array name="person_email">
+        <item>Middle School</item>
+        <item>Middle School</item>
+        <item>Middle School</item>
+        <item>Middle School</item>
+        <item>Middle School</item>
+        <item>Middle School</item>
+        <item>Middle School</item>
+        <item>Middle School</item>
+        <item>The harder you work, the luckier you get</item>
+        <item>Middle School</item>
+
+
+    </string-array>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+</resources>
